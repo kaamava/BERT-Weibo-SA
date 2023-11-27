@@ -1,5 +1,5 @@
 # BERT-Weibo-SA
-The code of *BERT for sentiment analysis in the era of epidemic*. It was developed to leverage machine learning and data science for analyzing sentiments during the first half of 2022. This project was conducted under the guidance of Professor Luu Anh Tuan at NTU, where I undertook courses and a summer project from July 2022 to September 2022.
+The code for *BERT for sentiment analysis in the era of epidemic*. It was developed to leverage machine learning and data science for analyzing sentiments during the first half of 2022. This project was conducted under the guidance of Professor Luu Anh Tuan at NTU, where I undertook courses and a summer project from July 2022 to September 2022.
 ![云图_副本](https://github.com/kaamava/BERT-Weibo-SA/assets/106901273/704259df-892f-4a1c-b597-1b24d2f21eed)
 
 ## BERT for Sentiment Analysis in the Era of Epidemic
